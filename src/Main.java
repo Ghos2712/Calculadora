@@ -17,6 +17,7 @@ public class Main {
             System.out.println("Introduce el segundo numero");
             int numero2= scanner.nextInt() ;
             int resultado= numero1+numero2 ;
+
             System.out.println("La suma " + numero1+ " mas " + numero2+" es igual a "+ resultado) ;
 
         } else if (mesa.equals("restar")) {
